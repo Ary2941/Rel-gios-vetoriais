@@ -2,6 +2,9 @@
 
 Este projeto consiste na implementação da lógica de relógios vetoriais em Python para sistemas distribuídos, conforme especificado na tarefa. A implementação inclui testes extensivos para validar a corretude e eficiência da solução através de uma simulação.
 
+## Implementação
+envio de mensagens via socket TCP
+
 ## Equipe
 
 Este projeto foi desenvolvido por:
